@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🛠  Tech Stack
-Python  PyTorch  Tensorflow  Selenium  SQLite  RaspberryPi  JavaScript  Node.js  MongoDB  Typescript  Java  Rust  HTML  CSS  TailwindCSS  Git  Markdown  Visual Studio Code  Linux 
+- 😄: Saurav Adhikari
